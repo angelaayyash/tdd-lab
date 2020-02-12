@@ -6,14 +6,21 @@
   "directories": {
     "test": "tests"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "jest": "^25.1.0"
-  },
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelaayyash/tdd-lab.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelaayyash/tdd-lab/issues"
+  },
+  "homepage": "https://github.com/angelaayyash/tdd-lab#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
